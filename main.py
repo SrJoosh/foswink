@@ -124,16 +124,18 @@ while ans:
 
     if ans == "help":
 
-        print("start : Start Gmod server ")
-        print("stop : Stop Gmod server ")
-        print("bans : Opens Ban Manager")
-        print("config : Change server parameters ")
-        print("console : Opens server console ")
-        print("logs : Opens Log Manager ")
-        print("installer : Install Gmod")
-        print("update : Update Gmod")
-        print("mount : Mount Games to Gmod")
-        print("exit : Exit FosWink ")
+        print("+----------------------------------+\n")
+        print("- start : Start Gmod server ")
+        print("- stop : Stop Gmod server ")
+        print("- bans : Opens Ban Manager")
+        print("- config : Change server parameters ")
+        print("- console : Opens server console ")
+        print("- logs : Opens Log Manager ")
+        print("- installer : Install Gmod")
+        print("- update : Update Gmod")
+        print("- mount : Mount Games to Gmod")
+        print("- exit : Exit FosWink ")
+        print("+----------------------------------+\n")
 
     elif ans == "start":
 
